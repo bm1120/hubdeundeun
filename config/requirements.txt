@@ -12,3 +12,7 @@ pingouin
 requests
 bs4
 db-dtypes
+folium
+shapely
+geopandas
+pyproj
